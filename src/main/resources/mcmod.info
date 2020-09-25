@@ -2,7 +2,7 @@
     {
       "modid": "pistonhack",
       "name": "PistonHack",
-      "description": "PistonHAck utility mod.",
+      "description": "PistonHack utility mod.",
       "version": "${modVersion}",
       "mcversion": "${version_minecraft}",
       "url": "https://pistonmaster.net",

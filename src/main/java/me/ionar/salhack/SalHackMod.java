@@ -15,7 +15,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 @Mod(modid = "pistonhack", name = "PistonHack", version = SalHackMod.VERSION)
 public final class SalHackMod
 {
-    public static final String NAME = "SalHack";
+    public static final String NAME = "PistonHack";
     public static final String VERSION = "2.05";
 
     public static final Logger log = LogManager.getLogger("sal");
@@ -25,7 +25,7 @@ public final class SalHackMod
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
-        log.info("init salhack v: " + VERSION);
+        log.info("init pistonhack v: " + VERSION);
 
         SalHack.Init();
 
