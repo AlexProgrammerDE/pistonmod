@@ -1,11 +1,11 @@
 [
     {
-      "modid": "salhack",
-      "name": "SalHack",
-      "description": "SalHack utility mod.",
+      "modid": "pistonhack",
+      "name": "PistonHack",
+      "description": "PistonHAck utility mod.",
       "version": "${modVersion}",
       "mcversion": "${version_minecraft}",
-      "url": "https://salhack.com",
+      "url": "https://pistonmaster.net",
       "updateUrl": "https://salhack.com",
       "authorList": ["ionar"],
       "credits": "ionar",
