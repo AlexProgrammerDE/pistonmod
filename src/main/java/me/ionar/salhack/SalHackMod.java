@@ -15,10 +15,10 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 @Mod(modid = "pistonhack", name = "PistonHack", version = SalHackMod.VERSION)
 public final class SalHackMod
 {
-    public static final String NAME = "SalHack";
-    public static final String VERSION = "2.05";
+    public static final String NAME = "PistonHAck";
+    public static final String VERSION = "0.1";
 
-    public static final Logger log = LogManager.getLogger("sal");
+    public static final Logger log = LogManager.getLogger("piston");
 
     public static final EventBus EVENT_BUS = new EventManager();
 
