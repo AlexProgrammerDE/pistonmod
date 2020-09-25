@@ -1,3 +1,4 @@
+# 100% not skidded lmao
 [![Sal Hack logo](/src/main/resources/assets/salhack/imgs/SalHackWatermark.png)](https://github.com/ionar2/salhack/)
 
 [![Discord](https://img.shields.io/discord/694337597371056198?label=discord&logo=discord&logoColor=white)](https://discord.gg/mj9sVWf) 
